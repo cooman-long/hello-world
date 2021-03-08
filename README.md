@@ -1,4 +1,3 @@
 # hello-world
-now I know somethings
+freshman
 It's a rainning day, a little cold.
-pretty good
